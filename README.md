@@ -12,5 +12,6 @@ This modpack is created in a way that you are actually forced to play the game w
   - Kill Makas for extra leather 
 - Find a cave to shelter yourself in
 
-# Changelog
-<a href="Changelog.md">Click Here!</a>
+# Download
+# Features
+<a href="Features.md">Click Here!</a>
