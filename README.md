@@ -10,3 +10,6 @@ This modpack is created in a way that you are actually forced to play the game w
 - Kill animals for food and experience
   - Kill Makas for leather 
 - Find a cave to shelter yourself in
+
+# Changelog
+<a href="Changelog.html">Click Here!</a>
