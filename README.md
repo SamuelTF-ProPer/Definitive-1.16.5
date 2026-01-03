@@ -12,4 +12,4 @@ This modpack is created in a way that you are actually forced to play the game w
 - Find a cave to shelter yourself in
 
 # Changelog
-<a href="Changelog.html">Click Here!</a>
+<a href="Changelog">Click Here!</a>
