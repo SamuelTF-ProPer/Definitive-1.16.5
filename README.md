@@ -7,8 +7,9 @@ This modpack is created in a way that you are actually forced to play the game w
 # Tips for the first day
 - Be fast, the night is very dangerous
 - Get 16 blocks of wood
+  - Create charcoal
 - Kill animals for food and experience
-  - Kill Makas for leather 
+  - Kill Makas for extra leather 
 - Find a cave to shelter yourself in
 
 # Changelog
